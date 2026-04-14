@@ -5,7 +5,7 @@ A working example of switching content based on tab selection.
 ## Setup
 
 ```
-git clone
+git clone https://github.com/GenevieveBuckley/demo-tabs.git
 cd demo-tabs
 npm install ci
 ```
