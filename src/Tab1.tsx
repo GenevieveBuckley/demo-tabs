@@ -1,4 +1,4 @@
-import Plot from "plotly.js-dist-min";
+import Plot from "react-plotly.js";
 
 export function Tab1() {
   return (
